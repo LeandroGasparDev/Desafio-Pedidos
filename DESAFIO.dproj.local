@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/13 16:25:16.000.588,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/08 10:48:50.000.862,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/08 10:49:51.000.345,C:\Users\Leandro\Desktop\Desafio\frmMenu.dfm=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/12/08 10:49:51.000.345,C:\Users\Leandro\Desktop\Desafio\frmMenu.pas=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/08 10:50:05.000.336,C:\Users\Leandro\Desktop\Desafio\projDesafio.dproj=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/12/08 10:58:56.000.324,=C:\Users\Leandro\Desktop\Desafio\Unit2.pas</Transaction>
+    <Transaction>2023/12/08 11:09:45.000.349,C:\Users\Leandro\Desktop\Desafio\uCadClientes.dfm=C:\Users\Leandro\Desktop\Desafio\Unit2.dfm</Transaction>
+    <Transaction>2023/12/08 11:09:45.000.349,C:\Users\Leandro\Desktop\Desafio\uCadClientes.pas=C:\Users\Leandro\Desktop\Desafio\Unit2.pas</Transaction>
+    <Transaction>2023/12/08 11:09:58.000.860,C:\Users\Leandro\Desktop\Desafio\uMenu.pas=C:\Users\Leandro\Desktop\Desafio\frmMenu.pas</Transaction>
+    <Transaction>2023/12/08 11:09:58.000.860,C:\Users\Leandro\Desktop\Desafio\uMenu.dfm=C:\Users\Leandro\Desktop\Desafio\frmMenu.dfm</Transaction>
+    <Transaction>2023/12/08 11:13:08.000.158,=C:\Users\Leandro\Desktop\Desafio\Unit1.pas</Transaction>
+    <Transaction>2023/12/08 11:13:38.000.175,C:\Users\Leandro\Desktop\Desafio\uPedidos.pas=C:\Users\Leandro\Desktop\Desafio\Unit1.pas</Transaction>
+    <Transaction>2023/12/08 11:13:38.000.175,C:\Users\Leandro\Desktop\Desafio\uPedidos.dfm=C:\Users\Leandro\Desktop\Desafio\Unit1.dfm</Transaction>
+    <Transaction>2023/12/08 11:49:27.000.797,C:\Users\Leandro\Desktop\Desafio\uCadClientes.pas=</Transaction>
+    <Transaction>2023/12/08 11:49:27.000.744,C:\Users\Leandro\Desktop\Desafio\uMenu.pas=</Transaction>
+    <Transaction>2023/12/08 11:49:35.000.861,C:\Users\Leandro\Desktop\Desafio\uPedidos.pas=</Transaction>
+    <Transaction>2023/12/08 11:49:41.000.026,=C:\Users\Leandro\Desktop\Desafio\uPedidos.pas</Transaction>
+    <Transaction>2023/12/10 12:41:18.336,C:\Users\leand\Desktop\Desafio\DESAFIO.dproj=C:\Users\leand\Desktop\Desafio\projDesafio.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
