@@ -81,7 +81,7 @@ Os dados são armazenados em arquivos XML utilizando o componente TClientDataSet.
 ## Data/Local de Criação
 - [10/12/2023 / Piraju-SP]
 
-## Link do projeto no Gitgub
+## Link do projeto no Github
 https://github.com/LeandroGasparDev/DesafioProg
 
 Leandro B. Gaspar | Programador Delphi Sênior
